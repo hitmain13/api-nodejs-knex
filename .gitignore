@@ -10,7 +10,10 @@ build
 # Development
 node_modules
 *.local
+
+# Environments
 .env
+.env.test
 
 # Cache
 .cache
